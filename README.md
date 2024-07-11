@@ -25,4 +25,13 @@ You can set your hyperparameters as you want!
 
 ## Citation
 ```
+@misc{seong2024dynamictrendfilteringtrend,
+      title={Towards Dynamic Trend Filtering through Trend Point Detection with Reinforcement Learning}, 
+      author={Jihyeon Seong and Sekwang Oh and Jaesik Choi},
+      year={2024},
+      eprint={2406.03665},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2406.03665}, 
+}
 ```
